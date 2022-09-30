@@ -1,0 +1,123 @@
+[
+    {
+        "_id": "1",
+        "place": "Cox-Bazar",
+        "duration": "3",
+        "people": "2",
+        "ratings": "4.7",
+        "imgURL": "https://nieamulkabir.github.io/limitless-tourism/image/cox-bazar.jpg",
+        "title": "Cox's Bazar is one of the most attractive tourist spots in the world.",
+        "description": "Cox's Bazar is consists of miles of golden sands, towering cliffs, surfing waves, rare conch shells, colourful pagodas, Buddhist temples and tribes. The most attractive tourist Resort full of bounties of nature in Bangladesh. Having the world's longest unbroken 120 k.m beach slopping gently down to the blue waters of the Bay of Bengal against the picturesque background of a chain of hills covered with deep green forests, ",
+        "price": "8650"
+    },
+    {
+        "_id": "2",
+        "place": "Sajek Valley",
+        "duration": "3",
+        "people": "2",
+        "ratings": "4.6",
+        "imgURL": "https://nieamulkabir.github.io/limitless-tourism/image/sajek.jpg",
+        "title": "Sajek Tripuri Valley is known as the Queen of Hills & Roof of Rangamati",
+        "description": "Sajek Tripuri Valley is one of the most popular tourist spots in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in Rangamati District.[3] The valley is 2,000 feet (610 m) above sea level.[4] Sajek Tripuri Valley is known as the Queen of Hills & Roof of Rangamati.",
+        "price": "12450"
+    },
+    {
+        "_id": "3",
+        "place": "Bandarban",
+        "duration": "3",
+        "people": "2",
+        "ratings": "4.2",
+        "imgURL": "https://nieamulkabir.github.io/limitless-tourism/image/Bandarban.jpg",
+        "title": "Bandarban is a district in South-Eastern and a part of the Chittagong Division",
+        "description": "Bandarban is the pious hub of Theravada Buddhism practiced by tribal communities like Marma or Mogh. Here you will find Buddha Dhatu Jadi, the largest Theravada Buddhist Temple of Bangladesh and the second biggest Buddha sculpture in the country. This Buddhist temple is called 'kyang' in the local language.",
+        "price": "7500"
+    },
+    {
+        "_id": "4",
+        "place": "Tanguar Hoar",
+        "duration": "3",
+        "people": "1",
+        "ratings": "4.6",
+        "imgURL": "https://nieamulkabir.github.io/limitless-tourism/image/Tanguar-haor.jpg",
+        "title": "Its located in the Dharmapasha & Tahirpur upazilas of Sunamganj District in Bangladesh",
+        "description": "anguar Haor is one of the largest natural water reservoirs in South Asia. Because of its diverse natural and aquatic features, it has been declared as a Ramsar site by IUCN. The site wears different looks at different seasons to attract tourists from around the world. During the rainy season, the Haor becomes a sea with strong waves, and cruising across the Haor is a lifetime experience for the visitors. In wintergreen fields of miles after miles, hundreds of canals, thousands just of migratory birds, fishermen in the ditches are just fabulous for the tourists",
+        "price": "6000"
+    },
+    {
+        "_id": "5",
+        "place": "Sundarban",
+        "duration": "3",
+        "people": "1",
+        "ratings": "4.8",
+        "imgURL": "https://nieamulkabir.github.io/limitless-tourism/image/sundarban.jpg",
+        "title": "Shundorbon is the largest mangrove forest of the world.",
+        "description": "UNESCO has declared ‘Shundorbon’ as ‘world heritage’. Since then it has grown attention of large number of people around the world.After mangrove trees, fresh water swamp forest and Royal Bengal Tigers are the main attraction of Shundorbon.These trip cover the Sundarbans Tiger points along the Bay of Bengal where Wildlife are best viewed there in between Katka & Kachikhali Wildlife Sanctuaries.",
+        "price": "10500"
+    },
+    {
+        "_id": "6",
+        "place": "Rangamati",
+        "duration": "3",
+        "people": "2",
+        "ratings": "4.6",
+        "imgURL": "https://nieamulkabir.github.io/limitless-tourism/image/rangamati.jpg",
+        "title": "Rangamati is also famous for cashew nut,water melon fresh fishes of Kaptai lake",
+        "description": "Rangamati Weather in May-June: The time has been observed as the peak season to visit Rangamati and rightly so. The temperatures range between 72℉ and 99℉ and the humidity that has been observed to be a usual of 82% marking the perfect climate to head out and check out the best things to do in Rangamati..",
+        "price": "5000"
+    },
+    {
+        "_id": "7",
+        "place": "Sylhet",
+        "duration": "1",
+        "people": "1",
+        "ratings": "4.1",
+        "imgURL": "https://nieamulkabir.github.io/limitless-tourism/image/sylhet.jpg",
+        "title": "Sylhet is known for its cane products & produces tea,fertilizer & liquefied petroleum",
+        "description": "Sylhet is a city in eastern Bangladesh, on the Surma River. It’s known for its Sufi shrines, like the ornate tomb and mosque of 14th-century saint Hazrat Shah Jalal, now a major pilgrimage site near Dargah Gate. The tiny Museum of Rajas contains belongings of the local folk poet Hasan Raja.",
+        "price": "2000"
+    },
+    {
+        "_id": "8",
+        "place": "UAE, Dubai",
+        "duration": "3",
+        "people": "2",
+        "ratings": "4.6",
+        "imgURL": "https://nieamulkabir.github.io/limitless-tourism/image/dubai.jpg",
+        "subtext": "Dubai is a city and emirate in the UAE known for luxury & ultramodern architecture.",
+        "description": "Dubai is a city and emirate in the United Arab Emirates known for luxury shopping, ultramodern architecture and a lively nightlife scene. Burj Khalifa, an 830m-tall tower, dominates the skyscraper-filled skyline. At its foot lies Dubai Fountain, with jets and lights choreographed to music. On artificial islands just offshore is Atlantis, The Palm, a resort with water and marine-animal parks.",
+        "price": "75000"
+    },
+    {
+        "_id": "9",
+        "place": "Thailand, Bankok",
+        "duration": "3",
+        "people": "2",
+        "ratings": "4.2",
+        "imgURL": "https://nieamulkabir.github.io/limitless-tourism/image/bankok.jpg",
+        "subtext": "Bangkok, Thailand’s capital, is a large city known for ornate shrines and vibrant street life.",
+        "description": "Bangkok, Thailand’s capital, is a large city known for ornate shrines and vibrant street life. The boat-filled Chao Phraya River feeds its network of canals, flowing past the Rattanakosin royal district, home to opulent Grand Palace and its sacred Wat Phra Kaew Temple.",
+        "price": "58000"
+    },
+    {
+        "_id": "10",
+        "place": "Vietnam, Hanoi",
+        "duration": "3",
+        "people": "1",
+        "ratings": "4.7",
+        "imgURL": "https://nieamulkabir.github.io/limitless-tourism/image/vietnam.jpg",
+        "subtext": "Hanoi, the capital of Vietnam, is known for its centuries-old architecture and a rich culture.",
+        "description": "Hanoi, the capital of Vietnam, is known for its centuries-old architecture and a rich culture with Southeast Asian, Chinese and French influences. At its heart is the chaotic Old Quarter, where the narrow streets are roughly arranged by trade. There are many little temples, including Bach Ma, honoring a legendary horse, plus Đồng Xuân Market, selling household goods and street food.",
+        "price": "70000"
+    },
+    {
+        "_id": "11",
+        "place": "Indonesia, Bali",
+        "duration": "3",
+        "people": "2",
+        "ratings": "4.8",
+        "imgURL": "https://nieamulkabir.github.io/limitless-tourism/image/bali.jpg",
+        "subtext": "Bali is a province of Indonesia and the westernmost of the Lesser Sunda Islands.",
+        "description": "Bali is a province of Indonesia and the westernmost of the Lesser Sunda Islands. East of Java and west of Lombok, the province includes the island of Bali and a few smaller neighbouring islands, notably Nusa Penida, Nusa Lembongan, and Nusa Ceningan.",
+        "price": "50000"
+    }
+]
