@@ -83,7 +83,7 @@
         "people": "2",
         "ratings": "4.6",
         "imgURL": "https://nieamulkabir.github.io/limitless-tourism/image/dubai.jpg",
-        "subtext": "Dubai is a city and emirate in the UAE known for luxury & ultramodern architecture.",
+        "title": "Dubai is a city and emirate in the UAE known for luxury & ultramodern architecture.",
         "description": "Dubai is a city and emirate in the United Arab Emirates known for luxury shopping, ultramodern architecture and a lively nightlife scene. Burj Khalifa, an 830m-tall tower, dominates the skyscraper-filled skyline. At its foot lies Dubai Fountain, with jets and lights choreographed to music. On artificial islands just offshore is Atlantis, The Palm, a resort with water and marine-animal parks.",
         "price": "75000"
     },
@@ -94,7 +94,7 @@
         "people": "2",
         "ratings": "4.2",
         "imgURL": "https://nieamulkabir.github.io/limitless-tourism/image/bankok.jpg",
-        "subtext": "Bangkok, Thailand’s capital, is a large city known for ornate shrines and vibrant street life.",
+        "title": "Bangkok, Thailand’s capital, is a large city known for ornate shrines and vibrant street life.",
         "description": "Bangkok, Thailand’s capital, is a large city known for ornate shrines and vibrant street life. The boat-filled Chao Phraya River feeds its network of canals, flowing past the Rattanakosin royal district, home to opulent Grand Palace and its sacred Wat Phra Kaew Temple.",
         "price": "58000"
     },
@@ -105,7 +105,7 @@
         "people": "1",
         "ratings": "4.7",
         "imgURL": "https://nieamulkabir.github.io/limitless-tourism/image/vietnam.jpg",
-        "subtext": "Hanoi, the capital of Vietnam, is known for its centuries-old architecture and a rich culture.",
+        "title": "Hanoi, the capital of Vietnam, is known for its centuries-old architecture and a rich culture.",
         "description": "Hanoi, the capital of Vietnam, is known for its centuries-old architecture and a rich culture with Southeast Asian, Chinese and French influences. At its heart is the chaotic Old Quarter, where the narrow streets are roughly arranged by trade. There are many little temples, including Bach Ma, honoring a legendary horse, plus Đồng Xuân Market, selling household goods and street food.",
         "price": "70000"
     },
@@ -116,7 +116,7 @@
         "people": "2",
         "ratings": "4.8",
         "imgURL": "https://nieamulkabir.github.io/limitless-tourism/image/bali.jpg",
-        "subtext": "Bali is a province of Indonesia and the westernmost of the Lesser Sunda Islands.",
+        "title": "Bali is a province of Indonesia and the westernmost of the Lesser Sunda Islands.",
         "description": "Bali is a province of Indonesia and the westernmost of the Lesser Sunda Islands. East of Java and west of Lombok, the province includes the island of Bali and a few smaller neighbouring islands, notably Nusa Penida, Nusa Lembongan, and Nusa Ceningan.",
         "price": "50000"
     }
